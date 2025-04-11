@@ -17,7 +17,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
-- Percentage of Total Orders delivered
+- Percentage of Total Orders delivered.
 - Dashboard Interaction <a href="https://github.com/Nikhil29112002/Data-Analysis-Dasboard-Excel/blob/main/vinda%20store.png">view Dashboard<a/>
 
 ## Process
@@ -35,7 +35,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- More than 90% of the products delivered.
   
 ## Final Conclusion:
 
