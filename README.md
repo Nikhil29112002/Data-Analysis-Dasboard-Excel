@@ -8,7 +8,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ## Dataset used
 -<a href="https://github.com/Nikhil29112002/Data-Analysis-Dasboard-Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more Men or Women?
